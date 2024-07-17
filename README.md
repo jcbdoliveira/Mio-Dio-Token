@@ -97,6 +97,11 @@ contract DIOToken is IERC20{
 }
 ```
 ## Resultado do deploy
+![localImage](./img/01.png)
 
+## Operações (fucntions) do contrato
+![localImage](./img/02.png)
 
+## Painel do ganache
+![localImage](./img/03.png)
 
