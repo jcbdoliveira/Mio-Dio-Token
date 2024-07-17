@@ -5,10 +5,10 @@
  Estudar o método de criação e principapis funções de um smart contract da rede Ethereum.
 
  ## Tecnologias utilizadas
- Ide Remix https://remix.ethereum.org/
- Truffle https://archive.trufflesuite.com/
- Ganache https://archive.trufflesuite.com/ganache/
- Metamask https://metamask.io/
+ * Ide Remix https://remix.ethereum.org/
+ * Truffle https://archive.trufflesuite.com/
+ * Ganache https://archive.trufflesuite.com/ganache/
+ * Metamask https://metamask.io/
 
 ## Smart contract
 ```solidity
@@ -19,7 +19,7 @@ pragma solidity ^0.8.0;
 /* 
  * @title MioDioToken
  * Estudo de criação e implementação de um token na rede Ethereum
- * Implementado todas as funções de operação com o token com base no repo https://github.com/digitalinnovationone
+ * Implementado com base no repo https://github.com/digitalinnovationone
  * dev https://www.linkedin.com/in/jcbdeoliveira/
  * 16/07/2024
  */
@@ -98,6 +98,5 @@ contract DIOToken is IERC20{
 ```
 ## Resultado do deploy
 
-	[]
 
 
